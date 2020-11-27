@@ -1,0 +1,3 @@
+(executable
+ (name main)
+ (libraries dmlenu dmlenu_extra))
